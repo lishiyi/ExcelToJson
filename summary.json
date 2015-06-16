@@ -1,0 +1,9 @@
+{
+	"list":[
+		{"nutrientTargets": { "calories": 3452.16, "protein": 170, "fat": 68, "carbs": 540.04, "name": "sebastian@vit.fitness" }},
+		{"nutrientTargets": { "calories": 1684.48, "protein": 120, "fat": 48, "carbs": 193.12, "name": "danielle@vit.fitness" }},
+		{"nutrientTargets": { "calories": 1449.6, "protein": 160, "fat": 64, "carbs": 58.4, "name": "danielle@vit.fitness" }},
+		{"nutrientTargets": { "calories": 2605.68, "protein": 140, "fat": 56, "carbs": 385.42, "name": "mikewillmadeit@gmail.com" }},
+		{"nutrientTargets": { "calories": 3220.2, "protein": 160, "fat": 64, "carbs": 501.05, "name": "sebastian@vit.fitness" }}
+	]
+}

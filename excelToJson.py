@@ -42,7 +42,7 @@ def table2jsn(table, jsonfilename):
             else:
                 strCellValue = str(CellObj)
                 #strCellValue = u"\"" + strCellValue + u"\""
-            if(table.cell_value(0,c)=="name"):
+            if(table.cell_value(0,c)=="name" or table.cell_value(0,c)=="gender"):
                 strTmp = u"\""  + table.cell_value(0,c) + u"\": "+ u"\"" + strCellValue + u"\""
             else:
                 strTmp = u"\""  + table.cell_value(0,c) + u"\": "+ strCellValue

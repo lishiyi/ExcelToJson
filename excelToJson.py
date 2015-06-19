@@ -1,12 +1,12 @@
 # This code is used to convert excel file to JSON file which is in UTF-8 format. 
-# lastdate:2011-8-15 14:21 version 1.1 
+# lastdate:2015-6-18 17:11 version 1.1 
 import os
 import sys
 import codecs
 import xlrd #http://pypi.python.org/pypi/xlrd
 if len(sys.argv) != 2 :
     print "argv count != 2, program exit"
-    print "USAGE: a.py excelfilename"
+    print "USAGE: exceltojson.py excelfilename"
     exit(0)
 print "excel to json"
 excelFileName = sys.argv[1]
